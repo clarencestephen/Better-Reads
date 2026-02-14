@@ -1,0 +1,90 @@
+SOURCE AVAILABLE LICENSE
+Version 1.0, February 2026
+
+Copyright (c) 2018-2026 Clarence Stephen. All rights reserved.
+
+This software is "source available" — it is NOT open source.
+
+1. DEFINITIONS
+
+"Software" means the source code, documentation, algorithms, data pipelines,
+trained models, and all related materials contained in this repository.
+
+"Licensor" means Clarence Stephen, the sole copyright holder.
+
+"You" means the individual or entity accessing this Software.
+
+2. PERMITTED USES
+
+You MAY:
+
+  a. View and read the source code for educational and reference purposes.
+  b. Fork this repository on GitHub for personal, non-commercial study only.
+  c. Cite this work in academic papers with proper attribution.
+
+3. PROHIBITED USES
+
+You may NOT, without prior written authorization from the Licensor:
+
+  a. Use the Software or any portion thereof for commercial purposes.
+  b. Copy, reproduce, or redistribute the Software outside of GitHub.
+  c. Modify, adapt, or create derivative works based on the Software.
+  d. Incorporate any portion of the Software into other products or services.
+  e. Use the Software to compete with any product or service offered by
+     the Licensor, including but not limited to Readify.
+  f. Use any portion of the Software to train machine learning models.
+  g. Sell, sublicense, lease, or otherwise transfer the Software.
+  h. Remove or alter any copyright notices or proprietary markings.
+  i. Present the Software or its outputs as your own work.
+
+4. ATTRIBUTION
+
+Any permitted use must include clear attribution:
+  "Copyright (c) 2018-2026 Clarence Stephen. All rights reserved.
+   Source: https://github.com/clarencestephen"
+
+5. NO OPEN-SOURCE RIGHTS
+
+This license does NOT comply with the Open Source Definition. This Software
+is not licensed under MIT, Apache, BSD, GPL, or any open-source license.
+No open-source rights are granted, implied, or intended.
+
+6. ENFORCEMENT
+
+Unauthorized use, reproduction, or distribution of the Software will be
+met with legal action. The Licensor reserves the right to pursue all
+available legal remedies, including but not limited to:
+
+  a. Injunctive relief and restraining orders.
+  b. Actual, statutory, and consequential damages.
+  c. Recovery of attorney fees and litigation costs.
+  d. DMCA takedown notices and platform enforcement.
+  e. Notification to employers, investors, and academic institutions.
+
+Violations may be reported to: clarence@ireadifybooks.com
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM
+THE USE OF THE SOFTWARE.
+
+8. TERMINATION
+
+This license is revocable. The Licensor may terminate Your access at any
+time, for any reason, without notice. Upon termination, You must destroy
+all copies of the Software in Your possession.
+
+9. GOVERNING LAW
+
+This license shall be governed by the laws of the State of New York, United
+States of America.
+
+10. CONTACT
+
+For licensing inquiries, partnerships, or institutional access:
+  Clarence Stephen
+  clarence@ireadifybooks.com
+  https://www.ireadifybooks.com
